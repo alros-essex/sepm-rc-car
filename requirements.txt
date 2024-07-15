@@ -18,4 +18,4 @@ pytest-cov
 PyYAML
 requests
 safety
-setuptools==65.5.1
+setuptools==70.0.0
